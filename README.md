@@ -1,59 +1,35 @@
-# Olá, eu sou o Guilherme 👋
+# Guilherme de Deus Dalosto
 
-Desenvolvedor back-end em formação, apaixonado por entender como as coisas funcionam por baixo dos panos.
-Atualmente cursando **Técnico em Informática para Web no SENAI** e **Análise e Desenvolvimento de Sistemas na Cesuca**.
+Desenvolvedor back-end em formação. Técnico em Informática pelo SENAI, cursando ADS na Cesuca.
 
-Não me contento só com o "funciona" — quero saber **por quê funciona**.
+Construo projetos reais enquanto estudo — o foco é entender como as coisas funcionam, não apenas fazê-las funcionar.
 
----
-
-## Sobre mim
-
-- 🎯 Foco em **back-end**, arquitetura de software e sistemas web
-- 📚 Estudando ativamente: arquitetura de projetos, segurança, cache, concorrência, escalabilidade e boas práticas
-- 🛠 Construindo projetos reais para aprender na prática
-- 🧠 Uso IA como ferramenta de aprendizado, não como atalho
-- 🚀 Objetivo claro: evoluir como dev e entrar no mercado
+Atualmente me aprofundando em arquitetura de software, segurança web e qualidade de sistemas.
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+**Stack**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Conceitos que venho estudando:**
-`Autenticação` `Cookies seguros` `Headers HTTP` `Arquitetura de software` `Cache` `Concorrência` `Tokens` `DTOs` `i18n` `Composer` `Namespaces` `Containers`
+Estudando: `arquitetura de software` · `autenticação & segurança` · `cache` · `concorrência` · `escalabilidade`
 
 ---
 
-## 📊 GitHub Stats
+**Stats**
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dedeusgui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedeusgui&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dedeusgui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedeusgui&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 📌 Projetos em Destaque
+**Contato**
 
-> Confira os projetos fixados no meu perfil abaixo ⬇️
-
----
-
-## 📬 Contato
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guilhermededeusdalosto@gmail.com)
-
----
-
-<p align="center">
-  <i>"Você não fica só no funciona — você quer saber por quê funciona."</i>
-</p>
+[guilhermededeusdalosto@gmail.com](mailto:guilhermededeusdalosto@gmail.com)
