@@ -1,6 +1,6 @@
 # Guilherme de Deus Dalosto (@dedeusgui)
 
-Desenvolvedor **back-end em formação** (júnior/estudante), construindo projetos reais enquanto evoluo na base — **entender como funciona por baixo** é parte do meu jeito de aprender.
+Desenvolvedor **back-end em formação** (júnior/estudante), construindo projetos reais enquanto evoluo na base.
 
 - 🎓 Técnico em Informática para Web — **SENAI**
 - 🎓 Análise e Desenvolvimento de Sistemas — **CESUCA**
@@ -31,7 +31,7 @@ Desenvolvedor **back-end em formação** (júnior/estudante), construindo projet
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Explorando / estudando**
-- PostgreSQL (migração e diferenças vs MySQL)
+- PostgreSQL 
 - Composer, namespaces e organização profissional de projetos PHP
 - Cache, concorrência e escalabilidade
 - i18n (internacionalização) e padrões de projeto
