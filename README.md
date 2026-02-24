@@ -41,8 +41,8 @@ Desenvolvedor **back-end em formação** (júnior/estudante), construindo projet
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dedeusgui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedeusgui&layout=compact&theme=tokyonight&hide_border=true" />
+ <img height="150em" src="https://stats-github-readme.vercel.app/api?username=dedeusgui&show_icons=true&theme=tokyonight" />
+<img height="150em" src="https://stats-github-readme.vercel.app/api/top-langs/?username=dedeusgui&layout=compact&theme=tokyonight" />
 </div>
 
 ---
