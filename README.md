@@ -32,7 +32,8 @@ Desenvolvedor **back-end em formação** (júnior/estudante), construindo projet
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 **Explorando / estudando**
-- PostgreSQL 
+- PostgreSQL
+- MongoDB
 - Composer, namespaces e organização profissional de projetos PHP
 - Cache, concorrência e escalabilidade
 - i18n (internacionalização) e padrões de projeto
