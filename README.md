@@ -1,6 +1,6 @@
 # Guilherme de Deus Dalosto (@dedeusgui)
 
-Desenvolvedor **back-end em formação** (júnior/estudante), construindo projetos enquanto evoluo na base.
+Desenvolvedor **back-end** (júnior/estudante), construindo projetos enquanto evoluo na base.
 
 - 🎓 Técnico em Informática para Web — **SENAI**
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas — **CESUCA**
@@ -59,7 +59,7 @@ Desenvolvedor **back-end em formação** (júnior/estudante), construindo projet
 <details>
 <summary><strong>📌 Notas rápidas</strong></summary>
 
-- Gosto de aprender “no mundo real”: pego um problema, quebro, entendo, e reconstruo melhor.
+- Curto aprender enquanto pratico, testando e desenvolvendo projetos novos com novas ferramentas.
 - Tenho interesse em trabalhar com **backend**, mas curto fazer o fullstack quando o projeto pede.
 
 </details>
