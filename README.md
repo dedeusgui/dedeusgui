@@ -10,12 +10,19 @@ Desenvolvedor **back-end** (júnior/estudante), construindo projetos enquanto ev
 
 ---
 
-## 🧠 Em que estou focado
+## 🧠 Atualmente focado em
 
-- **Backend & Web**: fluxo de dados, autenticação, sessões/cookies, APIs
-- **Segurança**: headers HTTP, cookies seguros, boas práticas OWASP
-- **Arquitetura**: organização de código, responsabilidades, camadas, DDD/MVC (quando faz sentido)
-- **Qualidade**: legibilidade, manutenção, testes/validação, consistência e performance
+🔹 **APIs REST** (PHP e Node.js)
+
+🔹 **Arquitetura em camadas** (Service, Repository, Controllers)
+
+🔹 **Segurança web** (OWASP, headers HTTP, cookies seguros, validação)
+
+🔹 **Organização de código e separação de responsabilidades**
+
+🔹 **Performance e boas práticas de backend**
+
+🔹 **Estruturação profissional de projetos** 
 
 ---
 ## 🛠 Stack & Ferramentas
