@@ -4,7 +4,6 @@ Desenvolvedor **back-end** (júnior/estudante), construindo projetos enquanto ev
 
 - 🎓 Técnico em Informática para Web — **SENAI**
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas — **CESUCA**
-- 🧩 Interesses atuais: **arquitetura de software**, **segurança web**, **qualidade de sistemas**, **escalabilidade** e **boas práticas**
 
 > 📌 **Projetos em destaque:** veja os repositórios fixados (Pinned) no meu perfil.
 
