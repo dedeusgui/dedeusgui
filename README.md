@@ -1,7 +1,7 @@
 # Guilherme de Deus Dalosto (@dedeusgui)
 
 ## Desenvolvedor **back-end** (júnior/estudante)
----
+
 
 Construindo projetos enquanto evoluo na base. 
 Apaixonado por arquitetura e construção de sistemas.
