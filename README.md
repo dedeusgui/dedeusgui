@@ -1,6 +1,6 @@
 # Guilherme de Deus Dalosto (@dedeusgui)
 
-Desenvolvedor **Backend em formação**, focado na construção de **APIs REST e sistemas bem estruturados**.
+Desenvolvedor **Backend Júnior**, focado na construção de **APIs REST e sistemas bem estruturados**.
 
 Tenho interesse em **arquitetura de software, boas práticas de backend e organização de código**, buscando evoluir constantemente nos fundamentos da engenharia de software e na construção de sistemas de qualidade.
 
