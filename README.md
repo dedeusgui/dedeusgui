@@ -40,20 +40,23 @@ Valorizo **arquitetura em camadas, código organizado, testes e documentação**
 | **Front-end** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Mobile** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
 | **Dados** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **DevOps & qualidade** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
+| **Infra & cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Qualidade & versionamento** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
 | **IA aplicada** | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square) ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos
+
+Projetos feitos por conta própria e durante a formação. Além deles, tenho trabalho profissional em produção, que é privado e não aparece aqui. Se quiser conversar sobre ele, use o contato no final.
+
+### Pessoais
 
 | Projeto | O que resolve | Stack |
 |:--|:--|:--|
 | **[PICK](https://github.com/dedeusgui/PICK)** | Motor de recomendação gamificado que reduz a fadiga de decisão na compra de produtos técnicos, com duelos eliminatórios e ranking ELO | React · Express · Firebase · Docker · Vitest · Playwright |
-| **ERP NAIR** *(em desenvolvimento)* | Plataforma de gestão para pequenas empresas, com foco em oficinas: clientes, vendas, ordens de serviço, estoque e financeiro | Java · Spring Boot · PostgreSQL · Flyway · React · TypeScript |
+| **ERP NAIR** *(em desenvolvimento · 🔒 repositório privado)* | Plataforma de gestão para pequenas empresas, com foco em oficinas: clientes, vendas, ordens de serviço, estoque e financeiro | Java · Spring Boot · PostgreSQL · Flyway · React · TypeScript |
 | **Shello** | Assistente pessoal com IA para chat, diário e tarefas, com autenticação JWT/HTTPOnly e 86 testes | React Native · Expo · FastAPI · Supabase · OpenAI |
-| **Doitly** *(formação SENAI)* | Rastreador de hábitos gamificado (XP, níveis, conquistas e streaks), com arquitetura em camadas | PHP · MySQL · PHPUnit |
-| **The Social Network** *(formação SENAI)* | Rede social simulada: API REST com JWT, RBAC e arquitetura modular (routes, controllers, services e repositories) | Node.js · Express · MongoDB |
 
 <details>
 <summary><strong>🔍 Destaques do PICK</strong></summary>
@@ -73,6 +76,13 @@ Valorizo **arquitetura em camadas, código organizado, testes e documentação**
 - Backend com diversas entidades **JPA/Hibernate**, Spring Data e filtros do **Spring Security** sobre PostgreSQL/Flyway
 
 </details>
+
+### Da formação (SENAI)
+
+| Projeto | O que resolve | Stack |
+|:--|:--|:--|
+| **Doitly** | Rastreador de hábitos gamificado (XP, níveis, conquistas e streaks), com arquitetura em camadas. Sigo evoluindo como projeto pessoal | PHP · MySQL · PHPUnit |
+| **The Social Network** | Rede social simulada: API REST com JWT, RBAC e arquitetura modular (routes, controllers, services e repositories) | Node.js · Express · MongoDB |
 
 ---
 
