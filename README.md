@@ -80,7 +80,7 @@ Projetos pessoais e da formação. Além deles, tenho trabalho profissional em p
 
 ## 💼 Experiência
 
-**Técnico de Informática (foco em desenvolvimento de software)**, indústria de alimentos, Cachoeirinha/RS · *04/2026 – atual*
+**Técnico de Informática (foco em desenvolvimento de software)**, indústria de alimentos, Alvorada/RS· *04/2026 – atual*
 
 - Automação do fluxo de notas fiscais, da captura à aprovação, eliminando o processo em papel
 - Desenvolvimento e sustentação de mais de seis apps Android nativos em produção (Kotlin e Java)
